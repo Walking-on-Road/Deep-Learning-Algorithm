@@ -1,3 +1,0 @@
-# LSTM
-Code includes data processing, model building, model evaluation can be content, automatic normalization of the data, each function is encapsulated into a function.  
-The model can realize multi-input and multi-step prediction
